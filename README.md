@@ -19,7 +19,7 @@ PORT=你的端口 CFIP=www.visa.com.tw CFPORT=443 bash <(curl -Ls https://raw.gi
 
 ## ssh综合工具箱一键脚本
 ```
-curl -fsSL https://raw.githubusercontent.com/eooce/ssh_tool/main/ssh_tool.sh -o ssh_tool.sh && chmod +x ssh_tool.sh && ./ssh_tool.sh
+curl -fsSL https://raw.githubusercontent.com/xiaohaha135/ssh_tool/main/ssh_tool.sh -o ssh_tool.sh && chmod +x ssh_tool.sh && ./ssh_tool.sh
 ```
 
 # 2：Serv00|CT8一键安装脚本,集成哪吒探针,全自动安装
